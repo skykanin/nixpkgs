@@ -3154,6 +3154,8 @@ in {
 
   kitchen = callPackage ../development/python-modules/kitchen { };
 
+  knack = callPackage ../development/python-modules/knack { };
+
   kubernetes = callPackage ../development/python-modules/kubernetes { };
 
   pylast = callPackage ../development/python-modules/pylast { };
